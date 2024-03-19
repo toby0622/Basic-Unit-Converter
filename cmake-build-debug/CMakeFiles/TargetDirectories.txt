@@ -1,0 +1,3 @@
+C:/Users/toby0/Documents/GitHub/Basic-Unit-Converter/cmake-build-debug/CMakeFiles/Basic_Unit_Converter.dir
+C:/Users/toby0/Documents/GitHub/Basic-Unit-Converter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/toby0/Documents/GitHub/Basic-Unit-Converter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
